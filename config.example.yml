@@ -1,0 +1,5 @@
+dropbox_app_key: i1sro8x7ei0tsh7
+dropbox_app_secret: ejgtqhjxup8wiwd
+dropbox_user_token: superSecretToken
+dropbox_user_secret: superUserSecret
+dump_path: "/put/path/to/your/dump/here.sql.gz"
