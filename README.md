@@ -1,5 +1,9 @@
 #How to use it
 
+Clone the repo:
+
+    git://github.com/phocke/dropbox-backuper.git
+
 Bundle your gems:
 
     bundle
